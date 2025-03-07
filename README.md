@@ -1,4 +1,4 @@
-# IDS_DDoS_DecisionTress
+# IDS_DDoS
 Intrusion Detection System for DDoS attack using Decision Tree.
 
 I made an IDS for a DDos Attack using a Machine Learning Algorithm. I Have used the dataset from Kaggle named DDoS SDN dataset. The accuracy that I got is 100%. Even the recall and precision are also 100%.
